@@ -1,4 +1,4 @@
-# Project2_InvestmentAdvisorBot
+# InvestmentAdvisorBot
 
 ![Chatbot](Images/Chatbot.jfif)
 
