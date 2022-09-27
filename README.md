@@ -3,8 +3,9 @@
 ![Chatbot](Images/Chatbot.jfif)
 
 
-Investment Advisor Bot
-Create an investment advisor bot which can advise advise clients on different Portfolios based on their risk appetite and calculate the expected returns using machine learning over a perios of time. The Portfolios include US equity martket index, Bloomberg bond index and Bitcoin. Since machine learning and automated trading are disrupting finance to improve customer experience. This would be a great way to reach and engage with young people.
+Investment Advisor Bot:
+
+Create an investment advisor bot which can advise clients on different Portfolios based on their risk appetite and calculate the expected returns using machine learning over a period of time. The Portfolios include US equity martket index, Bloomberg bond index and Bitcoin. Since machine learning and automated trading are disrupting finance to improve customer experience. This would be a great way to reach and engage with young people.
 
 Project Overview:
 
